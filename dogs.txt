@@ -1,4 +1,2 @@
-dog1
-dog2
+
 cat1
-cat2
